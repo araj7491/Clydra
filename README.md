@@ -4,7 +4,7 @@
 
 🔗 **GitHub Repo:** [https://github.com/araj7491/Clydra](https://github.com/araj7491/Clydra)
 
-🔗 **GitHub Repo:** [Click here](https://clydra.netlify.app/)
+🔗 **Live Demo:** [Click here](https://clydra.netlify.app/)
 
 
 ---
