@@ -3,6 +3,9 @@
 **Clydra** is a modern, responsive CRM website designed for a globally expanding IoT-based hardware company. Inspired by the clean and professional UI/UX of Zoho.com (without copying), it provides a comprehensive platform to manage products, analytics, and customer interactions seamlessly.
 
 🔗 **GitHub Repo:** [https://github.com/araj7491/Clydra](https://github.com/araj7491/Clydra)
+
+---
+
 [**Live Demo**](https://clydra.netlify.app/)
 
 ---
